@@ -58,8 +58,18 @@
 <ul>
 <li><p><h3 style="margin-left:50px; margin-top:5px; font-weight:bold"><font color="#0066CC">Administration Assignment: Head - IT</font></h3> </li>
 <li><p><h3 style="margin-left:50px; margin-top:5px; font-weight:bold"><font color="#0066CC">Contact No: 08764131168,9411140023</font></h3> </li>
-
+<ul>
+<!--<li><img src="images/cse/msn.jpg" width="150" height="170" align="middle" style="margin-left:20px"></li>-->
+<li><p><h3 style="margin-left:50px; margin-top:5px; font-weight:bold"><font color="#0066CC">Administration Assignment: Head CSE</font></h3> </li>
+<li><p><h3 style="margin-left:50px; margin-top:5px; font-weight:bold"><font color="#0066CC">Contact No: 9414804769</font></h3> </li> 
 </ul>
+</ul>
+	</dd><hr>
+<dt id="service1"><i class="fa fa-check"></i><b>Dr Deepak Singh- Head, IT</b></dt>
+<dd><br>
+<ul>
+<li><p><h3 style="margin-left:50px; margin-top:5px; font-weight:bold"><font color="#0066CC">Administration Assignment: Head - IT</font></h3> </li>
+<li><p><h3 style="margin-left:50px; margin-top:5px; font-weight:bold"><font color="#0066CC">Contact No: 08764131168,9411140023</font></h3> </li>
 </dd><hr>
 <dt id="service1"><i class="fa fa-check"></i><b>Mr Prashant Bhakar- Head, Civil</b></dt>
 <dd><br>
