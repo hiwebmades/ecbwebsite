@@ -17,12 +17,12 @@ include'clock.php'
 include'menu.php'
 ?>
     <br />
-    <div class="container">
+    <div class="container col-12">
         <div class="row">
 
             <div class="col-12 col-md-3 float-left">
                 <div class="card">
-                    <div class="card-header bg-primary text-white text-center">
+                    <div class="card-header bg-info text-black text-center">
                         Addmission
                     </div>
 
