@@ -11,6 +11,7 @@
                 </div>
             </div>
         </div>
+        
     </div>
 
 <script src="scripts/jquery-3.4.1.min.js" type="text/javascript"></script>
@@ -21,7 +22,7 @@
             var d = new Date();
             var date = d.getDate();
             var month = d.getMonth();
-            var montharr = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+            var montharr = ["Jan", "Feb", "Mar", "Apr", "May", "June", "July", "Aug", "Sept", "Oct.", "Nov", "Dec"];
             month = montharr[month];
             var year = d.getFullYear();
             var day = d.getDay();
